@@ -1,0 +1,257 @@
+id,Employee Name,Race Desc,Date of Hire,TermDate,Reason for Term,Employment Status,Department,Position,Pay,Manager Name,Performance Score,Abutments/Hour Wk 1,Abutments/Hour Wk 2,Daily Error Rate,90-day Complaints
+1,"Albert, Michael  ",White,2011-08-01,,N/A - still employed,Active,Production       ,Production Manager,$54.50,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+2,"Bozzi, Charles",Asian,2013-09-30,2014-08-07,retiring,Voluntarily Terminated,Production       ,Production Manager,$50.50,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+3,"Butler, Webster  L",White,2016-01-28,,N/A - still employed,Active,Production       ,Production Manager,$55.00,Elisa Bramante,Exceeds,0.0,0.0,0.0,0.0
+4,"Dunn, Amy  ",White,2014-09-18,,N/A - still employed,Active,Production       ,Production Manager,$51.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+5,"Gray, Elijiah  ",White,2015-06-02,,N/A - still employed,Active,Production       ,Production Manager,$54.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+6,"Hogland, Jonathan ",White,2011-01-10,2015-12-12,attendance,Terminated for Cause,Production       ,Production Manager,$48.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+7,"Immediato, Walter",Asian,2011-02-21,2012-09-24,unhappy,Voluntarily Terminated,Production       ,Production Manager,$42.00,Elisa Bramante,Needs Improvement,0.0,0.0,0.0,0.0
+8,"Liebig, Ketsia",White,2013-09-30,,N/A - still employed,Active,Production       ,Production Manager,$55.00,Elisa Bramante,Exceeds,0.0,0.0,0.0,0.0
+9,"Miller, Brannon",Hispanic,2012-08-16,,N/A - still employed,Active,Production       ,Production Manager,$53.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+10,"Peterson, Ebonee  ",White,2010-10-25,2016-05-18,Another position,Voluntarily Terminated,Production       ,Production Manager,$38.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+11,"Spirea, Kelley",White,2012-10-02,,N/A - still employed,Active,Production       ,Production Manager,$52.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+12,"Stanley, David ",White,2010-07-20,,N/A - still employed,Active,Production       ,Production Manager,$53.00,Elisa Bramante,Needs Improvement,0.0,0.0,0.0,0.0
+13,"Sullivan, Kissy ",Black or African American,2009-01-08,,N/A - still employed,Active,Production       ,Production Manager,$55.00,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+14,"Wallace, Courtney  E",Black or African American,2011-09-26,2012-01-02,Another position,Voluntarily Terminated,Production       ,Production Manager,$33.50,Elisa Bramante,Fully Meets,0.0,0.0,0.0,0.0
+15,"Adinolfi, Wilson  K",White,2011-07-05,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,Michael Albert,Exceeds,15.0,17.0,0.0,0.0
+16,"Alagbe,Trina",White,2008-01-07,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Elijiah Gray,Fully Meets,8.0,10.0,1.0,0.0
+17,"Anderson, Carol ",White,2011-07-11,2011-09-06,return to school,Voluntarily Terminated,Production       ,Production Technician I,$16.00,Webster Butler,N/A- too early to review,6.0,8.0,3.0,1.0
+18,"Anderson, Linda  ",White,2012-01-09,,N/A - still employed,Active,Production       ,Production Technician I,$23.00,Amy Dunn,Exceptional,19.0,19.0,0.0,0.0
+19,"Athwal, Sam",White,2013-09-30,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Ketsia Liebig,N/A- too early to review,6.0,6.0,1.0,0.0
+20,"Bachiochi, Linda",Two or more races,2009-07-06,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$22.00,Brannon Miller,Fully Meets,10.0,10.0,0.0,0.0
+21,"Baczenski, Rachael  ",Hispanic,2011-01-10,2011-01-12,Another position,Voluntarily Terminated,Production       ,Production Technician I,$17.00,David Stanley,N/A- too early to review,5.0,7.0,3.0,2.0
+22,"Barbara, Thomas",Asian,2012-04-02,2012-09-19,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Kissy Sullivan,90-day meets,5.0,8.0,0.0,0.0
+23,"Barone, Francesco  A",Two or more races,2012-02-20,,N/A - still employed,Active,Production       ,Production Technician I,$16.76,Kelley Spirea,Fully Meets,10.0,10.0,0.0,0.0
+24,"Barton, Nader",White,2012-09-24,2013-04-06,Another position,Voluntarily Terminated,Production       ,Production Technician I,$18.00,Michael Albert,Fully Meets,12.0,12.0,0.0,0.0
+25,"Beatrice, Courtney ",White,2011-04-04,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Elijiah Gray,Fully Meets,9.0,10.0,1.0,0.0
+26,"Becker, Scott",Asian,2013-07-08,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$17.00,Webster Butler,Fully Meets,8.0,9.0,0.0,0.0
+27,"Bernstein, Sean",White,2012-04-02,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Amy Dunn,Fully Meets,10.0,12.0,1.0,0.0
+28,"Biden, Lowan  M",Asian,2013-08-19,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Ketsia Liebig,Fully Meets,12.0,13.0,1.0,0.0
+29,"Billis, Helen",White,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Brannon Miller,Exceeds,16.0,15.0,0.0,0.0
+30,"Brill, Donna",White,2012-04-02,2013-06-15,Another position,Voluntarily Terminated,Production       ,Production Technician I,$20.00,David Stanley,Fully Meets,9.0,10.0,1.0,1.0
+31,"Bugali, Josephine ",Black or African American,2013-11-11,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$20.00,Kissy Sullivan,Fully Meets,13.0,15.0,1.0,0.0
+32,"Carey, Michael  ",Black or African American,2014-03-31,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,Kelley Spirea,Fully Meets,11.0,12.0,1.0,0.0
+33,"Chace, Beatrice ",White,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Michael Albert,Fully Meets,13.0,14.0,0.0,0.0
+34,"Chan, Lin",White,2014-05-12,,N/A - still employed,Active,Production       ,Production Technician I,$19.50,Elijiah Gray,Fully Meets,13.0,13.0,0.0,0.0
+35,"Chang, Donovan  E",White,2013-07-08,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Webster Butler,Fully Meets,8.0,10.0,1.0,0.0
+36,"Chivukula, Enola",White,2011-06-27,2015-11-15,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,$21.00,Amy Dunn,90-day meets,6.0,7.0,3.0,0.0
+37,"Cierpiszewski, Caroline  ",Black or African American,2011-10-03,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Ketsia Liebig,Fully Meets,12.0,14.0,1.0,0.0
+38,"Clukey, Elijian",White,2016-07-06,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,$24.75,Brannon Miller,Exceeds,16.0,16.0,0.0,0.0
+39,"Cockel, James",White,2013-07-08,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,David Stanley,Fully Meets,11.0,12.0,1.0,0.0
+40,"Cole, Spencer",Black or African American,2011-07-11,2012-09-23,performance,Terminated for Cause,Production       ,Production Technician I,$15.00,Kissy Sullivan,Needs Improvement,4.0,5.0,3.0,1.0
+41,"Cornett, Lisa ",White,2015-01-05,,N/A - still employed,Active,Production       ,Production Technician I,$15.75,Kelley Spirea,90-day meets,6.0,7.0,1.0,0.0
+42,"Crimmings,   Jean",White,2016-07-06,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,$19.75,Michael Albert,N/A- too early to review,9.0,10.0,2.0,2.0
+43,"Darson, Jene'ya ",White,2012-07-02,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,Elijiah Gray,Fully Meets,11.0,12.0,1.0,0.0
+44,"DeGweck,  James",White,2011-05-16,2015-06-08,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$23.50,Webster Butler,Fully Meets,13.0,15.0,1.0,0.0
+45,"Desimone, Carl ",White,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,Amy Dunn,PIP,3.0,3.0,3.0,3.0
+46,"Dickinson, Geoff ",White,2014-05-12,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Ketsia Liebig,Fully Meets,13.0,12.0,0.0,0.0
+47,"DiNocco, Lily ",Black or African American,2013-01-07,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Brannon Miller,Needs Improvement,5.0,2.0,4.0,2.0
+48,"Dobrin, Denisa  S",White,2012-04-02,,N/A - still employed,Active,Production       ,Production Technician I,$16.75,David Stanley,Fully Meets,13.0,14.0,1.0,1.0
+49,"Eaton, Marianne",White,2011-04-04,2013-06-06,military,Voluntarily Terminated,Production       ,Production Technician I,$17.00,Kissy Sullivan,Fully Meets,11.0,12.0,1.0,0.0
+50,"Engdahl, Jean",White,2014-11-10,,N/A - still employed,Active,Production       ,Production Technician I,$21.25,Kelley Spirea,Fully Meets,10.0,12.0,1.0,0.0
+51,"England, Rex",White,2014-03-31,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Kelley Spirea,90-day meets,6.0,7.0,0.0,0.0
+52,"Estremera, Miguel",White,2012-04-02,2014-09-27,attendance,Terminated for Cause,Production       ,Production Technician I,$17.00,Michael Albert,Needs Improvement,4.0,5.0,3.0,2.0
+53,"Evensen, April",White,2014-02-17,2014-02-25,"no-call, no-show",Terminated for Cause,Production       ,Production Technician I,$18.00,Elijiah Gray,N/A- too early to review,5.0,4.0,2.0,0.0
+54,"Ferguson, Susan",White,2011-11-07,2014-05-17,military,Voluntarily Terminated,Production       ,Production Technician I,$20.00,Webster Butler,Fully Meets,11.0,10.0,1.0,0.0
+55,"Fernandes, Nilson  ",White,2015-05-11,,N/A - still employed,Active,Production       ,Production Technician I,$18.00,Amy Dunn,N/A- too early to review,4.0,6.0,1.0,0.0
+56,"Ferreira, Violeta",White,2012-02-20,,N/A - still employed,Active,Production       ,Production Technician I,$23.00,Ketsia Liebig,Fully Meets,10.0,10.0,1.0,0.0
+57,"Fidelia,  Libby",White,2012-01-09,,N/A - still employed,Active,Production       ,Production Technician I,$24.00,Brannon Miller,Fully Meets,12.0,13.0,0.0,0.0
+58,"Garcia, Raul",White,2015-03-30,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,David Stanley,N/A- too early to review,7.0,6.0,1.0,0.0
+59,"Garneau, Hamish",Asian,2013-07-08,,N/A - still employed,Active,Production       ,Production Technician I,$18.00,Kissy Sullivan,Fully Meets,9.0,8.0,0.0,0.0
+60,"Gaul, Barbara",Black or African American,2011-05-16,,N/A - still employed,Active,Production       ,Production Technician I,$24.00,Kelley Spirea,Fully Meets,12.0,13.0,0.0,0.0
+61,"Gentry, Mildred",Black or African American,2015-03-30,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,Michael Albert,N/A- too early to review,5.0,8.0,2.0,0.0
+62,"Gerke, Melisa",White,2011-11-07,2011-11-15,hours,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Elijiah Gray,N/A- too early to review,5.0,7.0,1.0,0.0
+63,"Gilles, Alex",Black or African American,2012-04-02,2015-06-25,military,Voluntarily Terminated,Production       ,Production Technician I,$15.00,Webster Butler,Needs Improvement,5.0,6.0,4.0,2.0
+64,"Girifalco, Evelyn",Two or more races,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Amy Dunn,Exceeds,16.0,18.0,0.0,0.0
+65,"Gold, Shenice  ",White,2013-11-11,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,Ketsia Liebig,Fully Meets,13.0,12.0,1.0,0.0
+66,"Gonzalez, Cayo",American Indian or Alaska Native,2011-07-11,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Brannon Miller,Exceeds,16.0,16.0,0.0,0.0
+67,"Gordon, David",White,2012-07-02,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,David Stanley,Fully Meets,14.0,15.0,0.0,0.0
+68,"Goyal, Roxana",Asian,2013-08-19,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$24.00,Kissy Sullivan,Fully Meets,11.0,10.0,0.0,0.0
+69,"Gross, Paula",White,2011-02-21,2014-01-11,more money,Voluntarily Terminated,Production       ,Production Technician I,$14.00,Kelley Spirea,Fully Meets,9.0,10.0,0.0,0.0
+70,"Handschiegl, Joanne",White,2011-11-28,,N/A - still employed,Active,Production       ,Production Technician I,$24.00,Michael Albert,Fully Meets,11.0,12.0,1.0,0.0
+71,"Harrell, Ludwick",Asian,2012-05-14,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Elijiah Gray,Fully Meets,10.0,11.0,0.0,0.0
+72,"Harrington, Christie ",White,2012-01-09,2015-12-15,retiring,Voluntarily Terminated,Production       ,Production Technician I,$19.75,Webster Butler,Fully Meets,14.0,13.0,0.0,0.0
+73,"Harrison, Kara",White,2014-05-12,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,Amy Dunn,Exceeds,16.0,17.0,0.0,0.0
+74,"Heitzman, Anthony",White,2012-08-13,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,Ketsia Liebig,90-day meets,6.0,10.0,2.0,0.0
+75,"Ivey, Rose ",White,2013-08-19,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Brannon Miller,Fully Meets,12.0,15.0,2.0,0.0
+76,"Jackson, Maryellen",White,2012-11-05,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,David Stanley,Fully Meets,8.0,10.0,2.0,1.0
+77,"Jacobi, Hannah  ",White,2013-09-30,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Kissy Sullivan,Fully Meets,11.0,12.0,1.0,0.0
+78,"Jhaveri, Sneha  ",White,2014-01-06,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,Kelley Spirea,Fully Meets,12.0,14.0,0.0,0.0
+79,"Johnson, George",White,2011-11-07,2016-04-29,more money,Voluntarily Terminated,Production       ,Production Technician I,$17.00,Michael Albert,Exceeds,17.0,19.0,0.0,0.0
+80,"Jung, Judy  ",White,2011-01-10,2016-04-01,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$21.00,Elijiah Gray,90-day meets,7.0,9.0,3.0,0.0
+81,"Keatts, Kramer ",White,2013-09-30,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,Michael Albert,Fully Meets,15.0,14.0,1.0,1.0
+82,"King, Janet",White,2012-07-02,,N/A - still employed,Active,Production       ,Production Technician I,$23.00,Elijiah Gray,Fully Meets,9.0,10.0,1.0,1.0
+83,"Kinsella, Kathleen  ",White,2011-09-26,2015-06-04,more money,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Webster Butler,90-day meets,5.0,7.0,3.0,0.0
+84,"Kirill, Alexandra  ",White,2011-09-26,2012-01-09,more money,Voluntarily Terminated,Production       ,Production Technician I,$24.00,Amy Dunn,Fully Meets,12.0,14.0,2.0,0.0
+85,"Knapp, Bradley  J",Black or African American,2014-02-17,,N/A - still employed,Active,Production       ,Production Technician I,$14.00,Ketsia Liebig,Fully Meets,11.0,12.0,0.0,0.0
+86,"Kretschmer, John",Asian,2011-01-10,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Brannon Miller,Fully Meets,14.0,13.0,0.0,0.0
+87,"Langton, Enrico",White,2012-07-09,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,David Stanley,Fully Meets,13.0,14.0,0.0,0.0
+88,"Leach, Dallas",Asian,2011-09-26,2013-08-19,return to school,Voluntarily Terminated,Production       ,Production Technician I,$19.00,Kissy Sullivan,Fully Meets,12.0,12.0,1.0,0.0
+89,"LeBel, Jonathan  R",White,2011-02-21,2011-08-04,attendance,Terminated for Cause,Production       ,Production Technician I,$15.00,Kelley Spirea,90-day meets,6.0,7.0,0.0,0.0
+90,"Linares, Marilyn ",White,2011-07-05,2011-09-26,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$15.25,Michael Albert,N/A- too early to review,4.0,7.0,2.0,0.0
+91,"Lydon, Allison",Black or African American,2015-02-16,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$20.00,Elijiah Gray,90-day meets,6.0,10.0,1.0,0.0
+92,"Lynch, Lindsay",Two or more races,2011-11-07,2015-11-14,Another position,Voluntarily Terminated,Production       ,Production Technician I,$19.00,Webster Butler,Exceeds,16.0,16.0,0.0,0.0
+93,"MacLennan, Samuel",White,2012-09-24,2012-09-26,hours,Voluntarily Terminated,Production       ,Production Technician I,$15.00,Amy Dunn,N/A- too early to review,5.0,6.0,1.0,0.0
+94,"Mahoney, Lauren  ",White,2014-01-06,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,Ketsia Liebig,Fully Meets,9.0,10.0,1.0,0.0
+95,"Mangal, Debbie",White,2013-11-11,,N/A - still employed,Active,Production       ,Production Technician I,$23.00,Brannon Miller,Fully Meets,9.0,10.0,1.0,0.0
+96,"Maurice, Shana",White,2011-05-31,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,David Stanley,90-day meets,8.0,8.0,4.0,0.0
+97,"Mckenna, Sandy",Black or African American,2013-01-07,,N/A - still employed,Active,Production       ,Production Technician I,$24.00,Kissy Sullivan,Fully Meets,12.0,10.0,0.0,0.0
+98,"Meads, Elizabeth",Black or African American,2012-04-02,2015-11-11,Another position,Voluntarily Terminated,Production       ,Production Technician I,$14.00,Kelley Spirea,Fully Meets,9.0,11.0,1.0,0.0
+99,"Medeiros, Jennifer",White,2015-03-30,,N/A - still employed,Active,Production       ,Production Technician I,$20.00,Michael Albert,N/A- too early to review,6.0,6.0,1.0,1.0
+100,"Motlagh,  Dawn",White,2013-04-01,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,Elijiah Gray,Fully Meets,9.0,10.0,1.0,1.0
+101,"Ndzi, Colombui",Black or African American,2011-09-26,2014-04-04,return to school,Voluntarily Terminated,Production       ,Production Technician I,$18.00,Webster Butler,Fully Meets,12.0,11.0,0.0,0.0
+102,"Ndzi, Horia",White,2013-04-01,2016-05-25,more money,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Amy Dunn,Fully Meets,9.0,12.0,1.0,0.0
+103,"Newman, Richard ",White,2014-05-12,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$21.00,Ketsia Liebig,Fully Meets,11.0,10.0,1.0,0.0
+104,"Ngodup, Shari ",Asian,2013-04-01,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,Brannon Miller,Exceeds,15.0,16.0,0.0,0.0
+105,"Nguyen, Lei-Ming",White,2013-07-08,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,David Stanley,Fully Meets,9.0,10.0,0.0,0.0
+106,"O'hare, Lynn",Two or more races,2014-03-31,2016-05-01,performance,Terminated for Cause,Production       ,Production Technician I,$18.50,Kissy Sullivan,PIP,4.0,2.0,3.0,3.0
+107,"Osturnka, Adeel",White,2013-09-30,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Kelley Spirea,Exceeds,16.0,16.0,0.0,0.0
+108,"Owad, Clinton",Black or African American,2014-02-17,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Michael Albert,Needs Improvement,6.0,4.0,2.0,1.0
+109,"Panjwani, Nina",White,2011-02-07,2014-01-12,Another position,Voluntarily Terminated,Production       ,Production Technician I,$18.00,Elijiah Gray,Fully Meets,11.0,10.0,0.0,0.0
+110,"Pelech, Emil",Black or African American,2011-01-10,2012-12-28,career change,Voluntarily Terminated,Production       ,Production Technician I,$24.00,Webster Butler,Needs Improvement,5.0,4.0,2.0,1.0
+111,"Perry, Shakira",White,2011-05-16,2015-10-25,medical issues,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Amy Dunn,Fully Meets,14.0,14.0,0.0,0.0
+112,"Peterson, Kayla ",White,2010-04-26,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,Ketsia Liebig,Fully Meets,10.0,9.0,0.0,0.0
+113,"Pham, Hong",White,2011-07-05,2012-11-30,more money,Voluntarily Terminated,Production       ,Production Technician I,$18.00,Brannon Miller,Fully Meets,10.0,12.0,0.0,0.0
+114,"Pitt, Brad ",Black or African American,2007-11-05,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,David Stanley,Fully Meets,5.0,7.0,3.0,1.0
+115,"Power, Morissa",Asian,2011-05-16,2011-06-04,Another position,Voluntarily Terminated,Production       ,Production Technician I,$19.00,Kissy Sullivan,N/A- too early to review,12.0,12.0,2.0,0.0
+116,"Punjabhi, Louis  ",White,2014-01-06,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Kelley Spirea,Fully Meets,8.0,9.0,1.0,0.0
+117,"Purinton, Janine",White,2012-09-24,2013-06-18,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$16.00,Kissy Sullivan,Fully Meets,9.0,10.0,0.0,0.0
+118,"Rarrick, Quinn",White,2011-09-26,2012-04-07,more money,Voluntarily Terminated,Production       ,Production Technician I,$21.00,Michael Albert,Fully Meets,11.0,12.0,0.0,0.0
+119,"Rhoads, Thomas",White,2011-05-16,2016-01-15,retiring,Voluntarily Terminated,Production       ,Production Technician I,$20.00,Elijiah Gray,Fully Meets,17.0,18.0,0.0,0.0
+120,"Rivera, Haley  ",Asian,2011-11-28,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Webster Butler,Exceeds,13.0,13.0,0.0,0.0
+121,"Robinson, Alain  ",Black or African American,2011-01-10,2016-01-26,attendance,Voluntarily Terminated,Production       ,Production Technician I,$24.00,Amy Dunn,Fully Meets,6.0,3.0,3.0,2.0
+122,"Robinson, Cherly",White,2011-01-10,2016-05-17,attendance,Terminated for Cause,Production       ,Production Technician I,$16.00,Ketsia Liebig,Needs Improvement,17.0,19.0,0.0,0.0
+123,"Robinson, Elias",White,2013-07-08,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,Brannon Miller,Exceptional,10.0,13.0,1.0,0.0
+124,"Rose, Ashley  ",White,2014-01-06,,N/A - still employed,Active,Production       ,Production Technician I,$17.00,David Stanley,Fully Meets,9.0,10.0,1.0,0.0
+125,"Rossetti, Bruno",White,2011-04-04,2012-08-13,Another position,Voluntarily Terminated,Production       ,Production Technician I,$18.00,Kissy Sullivan,Fully Meets,5.0,6.0,2.0,0.0
+126,"Saar-Beckles, Melinda",Black or African American,2016-07-04,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,$20.00,Kelley Spirea,N/A- too early to review,14.0,13.0,1.0,0.0
+127,"Sadki, Nore  ",White,2009-01-05,2010-07-30,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,$21.00,Michael Albert,Fully Meets,12.0,14.0,0.0,0.0
+128,"Sander, Kamrin",Black or African American,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician I,$21.00,Elijiah Gray,Fully Meets,9.0,12.0,0.0,2.0
+129,"Sewkumar, Nori",Asian,2013-09-30,,N/A - still employed,Leave of Absence,Production       ,Production Technician I,$15.20,Webster Butler,Fully Meets,12.0,12.0,0.0,0.0
+130,"Shields, Seffi",White,2013-08-19,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,Amy Dunn,Fully Meets,9.0,10.0,1.0,1.0
+131,"Smith, Sade",White,2013-11-11,,N/A - still employed,Active,Production       ,Production Technician I,$24.50,Ketsia Liebig,Fully Meets,3.0,4.0,2.0,2.0
+132,"Sparks, Taylor  ",White,2012-02-20,,N/A - still employed,Active,Production       ,Production Technician I,$16.00,Brannon Miller,PIP,16.0,15.0,0.0,0.0
+133,"Squatrito, Kristen",White,2013-05-13,2015-06-29,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$21.00,David Stanley,Exceeds,9.0,10.0,1.0,1.0
+134,"Stanford,Barbara  M",Two or more races,2011-01-10,,N/A - still employed,Active,Production       ,Production Technician I,$14.00,Kissy Sullivan,Fully Meets,10.0,12.0,1.0,1.0
+135,"Stoica, Rick",Asian,2014-02-17,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,Kelley Spirea,Fully Meets,5.0,9.0,0.0,0.0
+136,"Sullivan, Timothy",White,2015-01-05,,N/A - still employed,Active,Production       ,Production Technician I,$19.00,Michael Albert,90-day meets,14.0,14.0,0.0,0.0
+137,"Sutwell, Barbara",Asian,2012-05-14,,N/A - still employed,Active,Production       ,Production Technician I,$14.00,Elijiah Gray,Fully Meets,10.0,12.0,2.0,0.0
+138,"Tavares, Desiree  ",Two or more races,2009-04-27,2013-04-01,Another position,Voluntarily Terminated,Production       ,Production Technician I,$15.00,Webster Butler,Fully Meets,6.0,7.0,2.0,0.0
+139,"Theamstern, Sophia",White,2011-07-05,2011-09-05,return to school,Voluntarily Terminated,Production       ,Production Technician I,$20.00,Amy Dunn,N/A- too early to review,5.0,9.0,1.0,0.0
+140,"Tinto, Theresa  ",White,2011-01-10,2011-05-14,Another position,Voluntarily Terminated,Production       ,Production Technician I,$20.00,Ketsia Liebig,90-day meets,8.0,9.0,2.0,1.0
+141,"Tippett, Jeanette",Black or African American,2013-02-18,,N/A - still employed,Active,Production       ,Production Technician I,$24.00,Brannon Miller,Fully Meets,4.0,7.0,3.0,0.0
+142,"Trang, Mei",White,2014-02-17,,N/A - still employed,Active,Production       ,Production Technician I,$22.00,David Stanley,N/A- too early to review,15.0,16.0,0.0,0.0
+143,"Veera, Abdellah ",White,2012-08-13,2016-02-05,maternity leave - did not return,Voluntarily Terminated,Production       ,Production Technician I,$19.00,Kissy Sullivan,Exceeds,16.0,15.0,0.0,0.0
+144,"Volk, Colleen",White,2011-09-26,2016-02-08,gross misconduct,Terminated for Cause,Production       ,Production Technician I,$21.00,Kelley Spirea,Exceeds,5.0,5.0,1.0,0.0
+145,"Von Massenbach, Anna",White,2015-07-05,,N/A - Has not started yet,Future Start,Production       ,Production Technician I,$20.00,Michael Albert,N/A- too early to review,7.0,9.0,3.0,4.0
+146,"Wallace, Theresa",White,2012-08-13,2015-09-01,career change,Voluntarily Terminated,Production       ,Production Technician I,$15.00,Elijiah Gray,Needs Improvement,7.0,8.0,4.0,1.0
+147,"Whittier, Scott",White,2011-01-10,2011-05-15,hours,Voluntarily Terminated,Production       ,Production Technician I,$23.00,Webster Butler,90-day meets,14.0,13.0,0.0,0.0
+148,"Wilber, Barry",White,2011-05-16,2015-09-07,unhappy,Voluntarily Terminated,Production       ,Production Technician I,$21.00,Amy Dunn,Fully Meets,9.0,12.0,1.0,0.0
+149,"Williams, Jacquelyn  ",Two or more races,2012-01-09,2015-06-27,relocation out of area,Voluntarily Terminated,Production       ,Production Technician I,$16.00,Ketsia Liebig,Fully Meets,3.0,5.0,2.0,2.0
+150,"Ybarra, Catherine ",Asian,2008-09-02,2015-09-29,Another position,Voluntarily Terminated,Production       ,Production Technician I,$22.00,Brannon Miller,PIP,10.0,10.0,0.0,0.0
+151,"Zima, Colleen",Asian,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician I,$15.00,David Stanley,Fully Meets,9.0,10.0,2.0,0.0
+152,"Akinkuolie, Sarah",White,2011-07-05,2012-09-24,hours,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Kissy Sullivan,90-day meets,17.0,17.0,0.0,0.0
+153,"Beak, Kimberly  ",White,2016-07-21,,N/A - Has not started yet,Future Start,Production       ,Production Technician II,$27.00,Kelley Spirea,Exceeds,6.0,5.0,2.0,2.0
+154,"Blount, Dianna",White,2011-04-04,,N/A - still employed,Active,Production       ,Production Technician II,$27.00,Michael Albert,Needs Improvement,6.0,11.0,1.0,1.0
+155,"Bondwell, Betsy",White,2011-01-10,2014-04-04,career change,Voluntarily Terminated,Production       ,Production Technician II,$26.00,Elijiah Gray,90-day meets,15.0,16.0,0.0,1.0
+156,"Buccheri, Joseph  ",White,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician II,$22.00,Webster Butler,Fully Meets,9.0,10.0,1.0,0.0
+157,"Burke, Joelle",Black or African American,2012-03-05,,N/A - still employed,Active,Production       ,Production Technician II,$25.00,Amy Dunn,Fully Meets,10.0,10.0,1.0,1.0
+158,"Burkett, Benjamin ",White,2011-04-04,,N/A - still employed,Active,Production       ,Production Technician II,$26.00,Ketsia Liebig,Fully Meets,7.0,8.0,0.0,1.0
+159,"Cloninger, Jennifer",White,2011-05-16,2013-01-07,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$25.00,Brannon Miller,90-day meets,9.0,10.0,1.0,0.0
+160,"Close, Phil",White,2010-08-30,2011-09-26,career change,Voluntarily Terminated,Production       ,Production Technician II,$26.00,David Stanley,Fully Meets,5.0,7.0,3.0,0.0
+161,"Davis, Daniel",Two or more races,2011-11-07,,N/A - still employed,Active,Production       ,Production Technician II,$25.00,Kissy Sullivan,90-day meets,14.0,15.0,1.0,0.0
+162,"Demita, Carla",Black or African American,2011-04-04,2015-11-04,more money,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Kelley Spirea,Fully Meets,4.0,5.0,3.0,3.0
+163,"Erilus, Angela",White,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician II,$24.00,Michael Albert,PIP,13.0,13.0,1.0,0.0
+164,"Faller, Megan ",Black or African American,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician II,$27.00,Elijiah Gray,Fully Meets,15.0,18.0,0.0,0.0
+165,"Fancett, Nicole",Black or African American,2014-02-17,,N/A - still employed,Active,Production       ,Production Technician II,$24.00,Webster Butler,Fully Meets,15.0,14.0,0.0,0.0
+166,"Fitzpatrick, Michael  J",White,2011-05-16,2013-06-24,hours,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Amy Dunn,Fully Meets,14.0,14.0,0.0,0.0
+167,"Foreman, Tanya",White,2011-04-04,2012-01-09,career change,Voluntarily Terminated,Production       ,Production Technician II,$24.00,Ketsia Liebig,Fully Meets,3.0,1.0,3.0,3.0
+168,"Gonzalez, Juan",Black or African American,2010-04-26,2011-05-30,career change,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Brannon Miller,PIP,12.0,10.0,1.0,0.0
+169,"Good, Susan",White,2014-05-12,,N/A - still employed,Leave of Absence,Production       ,Production Technician II,$24.25,David Stanley,Fully Meets,14.0,15.0,1.0,1.0
+170,"Gosciminski, Phylicia  ",American Indian or Alaska Native,2013-09-30,,N/A - still employed,Leave of Absence,Production       ,Production Technician II,$27.00,Kissy Sullivan,Fully Meets,12.0,12.0,1.0,0.0
+171,"Hankard, Earnest",White,2013-11-11,,N/A - still employed,Active,Production       ,Production Technician II,$24.00,Kelley Spirea,Fully Meets,15.0,16.0,0.0,0.0
+172,"Hendrickson, Trina",White,2011-01-10,2013-02-18,hours,Voluntarily Terminated,Production       ,Production Technician II,$24.00,Kelley Spirea,Fully Meets,14.0,15.0,0.0,0.0
+173,"Homberger, Adrienne  J",White,2011-08-15,2012-04-07,relocation out of area,Voluntarily Terminated,Production       ,Production Technician II,$28.00,Michael Albert,Fully Meets,5.0,6.0,2.0,1.0
+174,"Hunts, Julissa",White,2016-06-06,,N/A - Has not started yet,Future Start,Production       ,Production Technician II,$25.00,Elijiah Gray,N/A- too early to review,10.0,10.0,2.0,0.0
+175,"Hutter, Rosalie",White,2015-06-05,,N/A - Has not started yet,Future Start,Production       ,Production Technician II,$28.00,Webster Butler,N/A- too early to review,11.0,10.0,0.0,0.0
+176,"Huynh, Ming",White,2011-02-21,2013-04-01,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$23.00,Amy Dunn,Fully Meets,16.0,17.0,0.0,0.0
+177,"Jeannite, Tayana",American Indian or Alaska Native,2011-07-05,,N/A - still employed,Active,Production       ,Production Technician II,$22.50,Ketsia Liebig,Exceeds,19.0,17.0,0.0,0.0
+178,"Johnston, Yen",White,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician II,$25.00,Brannon Miller,Exceptional,11.0,10.0,0.0,0.0
+179,"Langford, Lindsey",Asian,2013-01-07,2014-03-31,Another position,Voluntarily Terminated,Production       ,Production Technician II,$22.00,David Stanley,Fully Meets,15.0,15.0,1.0,0.0
+180,"Latif, Mohammed",White,2012-04-02,2013-04-15,more money,Voluntarily Terminated,Production       ,Production Technician II,$28.00,Kissy Sullivan,Fully Meets,15.0,14.0,1.0,0.0
+181,"Linden, Mathew",White,2013-07-08,,N/A - still employed,Leave of Absence,Production       ,Production Technician II,$22.00,Kelley Spirea,Fully Meets,5.0,7.0,2.0,1.0
+182,"Lundy, Susan",White,2013-07-08,2013-09-15,more money,Voluntarily Terminated,Production       ,Production Technician II,$24.00,Michael Albert,N/A- too early to review,18.0,16.0,0.0,0.0
+183,"Lunquist, Lisa",Black or African American,2013-08-19,,N/A - still employed,Active,Production       ,Production Technician II,$26.10,Elijiah Gray,Exceeds,8.0,8.0,4.0,0.0
+184,"Manchester, Robyn",White,2016-05-11,,N/A - Has not started yet,Future Start,Production       ,Production Technician II,$23.00,Webster Butler,N/A- too early to review,6.0,5.0,1.0,0.0
+185,"Mancuso, Karen",Two or more races,2011-07-05,2011-08-19,Another position,Voluntarily Terminated,Production       ,Production Technician II,$23.00,Amy Dunn,N/A- too early to review,5.0,5.0,1.0,0.0
+186,"McCarthy, Brigit",White,2015-03-30,,N/A - still employed,Active,Production       ,Production Technician II,$26.00,Ketsia Liebig,N/A- too early to review,4.0,4.0,2.0,2.0
+187,"Miller, Ned",White,2011-08-15,2014-09-04,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$25.00,Brannon Miller,PIP,15.0,14.0,1.0,0.0
+188,"Monkfish, Erasumus  ",White,2011-11-07,,N/A - still employed,Active,Production       ,Production Technician II,$27.00,David Stanley,Fully Meets,17.0,18.0,0.0,0.0
+189,"Monterro, Luisa",Black or African American,2013-05-13,,N/A - still employed,Active,Production       ,Production Technician II,$25.00,Kissy Sullivan,Exceptional,10.0,12.0,1.0,1.0
+190,"Moran, Patrick",Hispanic,2012-01-09,,N/A - still employed,Leave of Absence,Production       ,Production Technician II,$26.00,Kelley Spirea,Fully Meets,10.0,12.0,1.0,0.0
+191,"Moumanil, Maliki ",Black or African American,2013-05-13,,N/A - still employed,Active,Production       ,Production Technician II,$29.00,Michael Albert,Fully Meets,10.0,10.0,0.0,1.0
+192,"Nowlan, Kristie",White,2014-11-10,,N/A - still employed,Active,Production       ,Production Technician II,$26.39,Elijiah Gray,Fully Meets,6.0,7.0,3.0,0.0
+193,"Oliver, Brooke ",Asian,2012-05-14,2013-08-19,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$25.00,Webster Butler,90-day meets,6.0,7.0,4.0,0.0
+194,"Pelletier, Ermine",Asian,2011-07-05,2011-09-15,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$28.00,Amy Dunn,N/A- too early to review,17.0,18.0,0.0,0.0
+195,"Peters, Lauren",White,2011-05-16,2012-02-04,more money,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Ketsia Liebig,Exceeds,9.0,10.0,0.0,0.0
+196,"Petingill, Shana  ",Asian,2012-04-02,,N/A - still employed,Active,Production       ,Production Technician II,$26.00,Brannon Miller,Fully Meets,4.0,6.0,2.0,1.0
+197,"Roberson, May",White,2011-09-26,2011-10-22,return to school,Voluntarily Terminated,Production       ,Production Technician II,$26.00,David Stanley,N/A- too early to review,12.0,12.0,0.0,0.0
+198,"Robertson, Peter",White,2011-07-05,2012-02-08,Another position,Voluntarily Terminated,Production       ,Production Technician II,$22.00,Kissy Sullivan,Fully Meets,11.0,10.0,0.0,0.0
+199,"Sahoo, Adil",White,2010-08-30,,N/A - still employed,Active,Production       ,Production Technician II,$29.00,Kelley Spirea,Fully Meets,14.0,17.0,0.0,0.0
+200,"Sloan, Constance",White,2009-10-26,2015-04-08,maternity leave - did not return,Voluntarily Terminated,Production       ,Production Technician II,$23.00,Michael Albert,Fully Meets,16.0,16.0,0.0,0.0
+201,"Smith, Joe",White,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician II,$22.00,Elijiah Gray,Exceeds,12.0,18.0,0.0,0.0
+202,"Sweetwater, Alex",White,2011-08-15,,N/A - still employed,Active,Production       ,Production Technician II,$27.00,Michael Albert,Fully Meets,9.0,10.0,0.0,0.0
+203,"Tejeda, Lenora ",White,2011-05-16,2012-07-08,Another position,Voluntarily Terminated,Production       ,Production Technician II,$28.75,Elijiah Gray,Fully Meets,12.0,12.0,1.0,0.0
+204,"Thibaud, Kenneth",White,2007-06-25,2010-08-30,military,Voluntarily Terminated,Production       ,Production Technician II,$23.00,Webster Butler,Fully Meets,12.0,13.0,1.0,0.0
+205,"Trzeciak, Cybil",White,2011-01-10,2012-07-02,unhappy,Voluntarily Terminated,Production       ,Production Technician II,$22.00,Amy Dunn,Fully Meets,12.0,14.0,0.0,1.0
+206,"Walker, Roger",Black or African American,2014-08-18,,N/A - still employed,Active,Production       ,Production Technician II,$22.00,Ketsia Liebig,Fully Meets,18.0,17.0,0.0,0.0
+207,"Winthrop, Jordan  ",White,2013-01-07,2016-02-21,retiring,Voluntarily Terminated,Production       ,Production Technician II,$29.00,Brannon Miller,Exceeds,12.0,11.0,0.0,0.0
+208,"Wolk, Hang  T",White,2014-09-29,,N/A - still employed,Active,Production       ,Production Technician II,$22.00,David Stanley,Fully Meets,12.0,17.0,0.0,0.0
+209,"Woodson, Jason",White,2014-07-07,,N/A - still employed,Active,Production       ,Production Technician II,$24.25,Kissy Sullivan,Fully Meets,,,,
+210,,,,,,,,,,,,,,,
+211,,,,,,,,,,,,,,,
+212,,,,,,,,,,,,,,,
+213,,,,,,,,,,,,,,,
+214,,,,,,,,,,,,,,,
+215,,,,,,,,,,,,,,,
+216,,,,,,,,,,,,,,,
+217,,,,,,,,,,,,,,,
+218,,,,,,,,,,,,,,,
+219,,,,,,,,,,,,,,,
+220,,,,,,,,,,,,,,,
+221,,,,,,,,,,,,,,,
+222,,,,,,,,,,,,,,,
+223,,,,,,,,,,,,,,,
+224,,,,,,,,,,,,,,,
+225,,,,,,,,,,,,,,,
+226,,,,,,,,,,,,,,,
+227,,,,,,,,,,,,,,,
+228,,,,,,,,,,,,,,,
+229,,,,,,,,,,,,,,,
+230,,,,,,,,,,,,,,,
+231,,,,,,,,,,,,,,,
+232,,,,,,,,,,,,,,,
+233,,,,,,,,,,,,,,,
+234,,,,,,,,,,,,,,,
+235,,,,,,,,,,,,,,,
+236,,,,,,,,,,,,,,,
+237,,,,,,,,,,,,,,,
+238,,,,,,,,,,,,,,,
+239,,,,,,,,,,,,,,,
+240,,,,,,,,,,,,,,,
+241,,,,,,,,,,,,,,,
+242,,,,,,,,,,,,,,,
+243,,,,,,,,,,,,,,,
+244,,,,,,,,,,,,,,,
+245,,,,,,,,,,,,,,,
+246,,,,,,,,,,,,,,,
+247,,,,,,,,,,,,,,,
+248,,,,,,,,,,,,,,,
+249,,,,,,,,,,,,,,,
+250,,,,,,,,,,,,,,,
+251,,,,,,,,,,,,,,,
+252,,,,,,,,,,,,,,,
+253,,,,,,,,,,,,,,,
+254,,,,,,,,,,,,,,,
+255,,,,,,,,,,,,,,,
+256,,,,,,,,,,,,,,,
