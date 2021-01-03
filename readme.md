@@ -1,6 +1,6 @@
 # Отчет о результатах работы онлайн платформы для дистанционного обучения
 
-![alt text](https://github.com/keymkm/EduPlatformAnalysis/blob/main/rep_logo.png)
+![alt text](rep_logo.png)
 
 <br><br>
 **Описание:**
